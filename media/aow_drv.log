@@ -1,0 +1,60 @@
+[4][6032][11:16:28.104]: DriverEntry: gLogMaxLine=100000
+[4][6032][11:16:28.119]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][6032][11:16:28.119]: DriverEntry: EvSignNeeded=1
+[7884][10544][11:16:28.163]: AOWCreate: ExePath=\Device\HarddiskVolume4\program files\txgameassistant\ui\AndroidEmulator.exe
+[7884][10544][11:16:28.163]: AOWCreate: DriverPath=\Device\HarddiskVolume4\program files\txgameassistant\ui\AOW_DRV_X64_EV.SYS
+[7884][10544][11:16:28.181]: AOWCreate: DriverMD5=1BD0ECF5D92DB47619D48877BF41057A, CurrentDriverMD5=1BD0ECF5D92DB47619D48877BF41057A
+[2536][10696][11:16:28.637]: AOWCreate: ExePath=\Device\HarddiskVolume4\program files\txgameassistant\ui\aow_exe.exe
+[2536][10696][11:16:28.637]: AOWCreate: DriverPath=\Device\HarddiskVolume4\program files\txgameassistant\ui\AOW_DRV_X64_EV.SYS
+[2536][10696][11:16:28.643]: AOWCreate: DriverMD5=1BD0ECF5D92DB47619D48877BF41057A, CurrentDriverMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][292][10:33:48.219]: DriverEntry: gLogMaxLine=100000
+[4][292][10:33:48.485]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][292][10:33:48.485]: DriverEntry: EvSignNeeded=1
+[4][408][09:57:29.011]: DriverEntry: gLogMaxLine=100000
+[4][408][09:57:29.402]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][408][09:57:29.402]: DriverEntry: EvSignNeeded=1
+[4][292][08:01:15.047]: DriverEntry: gLogMaxLine=100000
+[4][292][08:01:15.098]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][292][08:01:15.098]: DriverEntry: EvSignNeeded=1
+[4][304][08:43:32.538]: DriverEntry: gLogMaxLine=100000
+[4][304][08:43:32.567]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][304][08:43:32.567]: DriverEntry: EvSignNeeded=1
+[4][32][22:12:28.766]: DriverEntry: gLogMaxLine=100000
+[4][32][22:12:28.781]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][32][22:12:28.781]: DriverEntry: EvSignNeeded=1
+[4][332][14:04:26.298]: DriverEntry: gLogMaxLine=100000
+[4][332][14:04:26.379]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][332][14:04:26.379]: DriverEntry: EvSignNeeded=1
+[4][372][12:40:52.988]: DriverEntry: gLogMaxLine=100000
+[4][372][12:40:53.006]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][372][12:40:53.006]: DriverEntry: EvSignNeeded=1
+[4][232][22:36:25.756]: DriverEntry: gLogMaxLine=100000
+[4][232][22:36:25.808]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][232][22:36:25.808]: DriverEntry: EvSignNeeded=1
+[4][104][16:58:13.538]: DriverEntry: gLogMaxLine=100000
+[4][104][16:58:13.556]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][104][16:58:13.556]: DriverEntry: EvSignNeeded=1
+[4][296][21:29:58.760]: DriverEntry: gLogMaxLine=100000
+[4][296][21:29:58.876]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][296][21:29:58.876]: DriverEntry: EvSignNeeded=1
+[4][288][20:11:15.257]: DriverEntry: gLogMaxLine=100000
+[4][288][20:11:15.379]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][288][20:11:15.379]: DriverEntry: EvSignNeeded=1
+[4][232][20:52:16.913]: DriverEntry: gLogMaxLine=100000
+[4][232][20:52:17.105]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][232][20:52:17.105]: DriverEntry: EvSignNeeded=1
+[4][32][13:15:38.135]: DriverEntry: gLogMaxLine=100000
+[4][32][13:15:38.156]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][32][13:15:38.156]: DriverEntry: EvSignNeeded=1
+[4][344][19:59:32.508]: DriverEntry: gLogMaxLine=100000
+[4][344][19:59:32.520]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][344][19:59:32.520]: DriverEntry: EvSignNeeded=1
+[4][344][21:00:53.313]: DriverEntry: gLogMaxLine=100000
+[4][344][21:00:53.345]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][344][21:00:53.345]: DriverEntry: EvSignNeeded=1
+[4][428][11:44:11.858]: DriverEntry: gLogMaxLine=100000
+[4][428][11:44:11.951]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][428][11:44:11.951]: DriverEntry: EvSignNeeded=1
+[4][304][21:58:18.069]: DriverEntry: gLogMaxLine=100000
+[4][304][21:58:18.203]: DriverEntry: DriverPath=\??\F:\Program Files\TxGameAssistant\UI\3.21.237.100\aow_drv_x64_ev.sys, DriverFileMD5=1BD0ECF5D92DB47619D48877BF41057A
+[4][304][21:58:18.203]: DriverEntry: EvSignNeeded=1
